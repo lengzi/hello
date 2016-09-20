@@ -1,3 +1,6 @@
 # hello
 leng's 1st program
-hi  man>??
+hi  
+man>??
+nihao 
+哈哈
